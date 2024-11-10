@@ -1,1 +1,2 @@
 # Theseus-OS-Report
+Report on [Theseus OS](https://github.com/theseus-os/Theseus) which is an experimental Operating System Created @kevinaboos and his team. This report details on Requirements, Installation, User Interface, Process Control, Memory Management, Deadlock Handling, Secondary Disk Sheduling, Standard Support and State Management of the Operation System.
